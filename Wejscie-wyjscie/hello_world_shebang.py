@@ -1,2 +1,2 @@
-#!C:\Python39
+#!/usr/bin/python
 print('Hello world!')
