@@ -1,0 +1,10 @@
+<?xml version="1.0" ?><znajomi>
+	<osoba>
+		<imie foo="zzz">Tomek</imie>
+		<email>1@1.pl</email>
+	</osoba>
+	<osoba>
+		<imie foo="aaaa">Janina</imie>
+		<email>2@2.pl</email>
+	</osoba>
+</znajomi>
